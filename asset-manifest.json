@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/semantic-ui/static/css/main.5f361e03.chunk.css",
+    "main.js": "/semantic-ui/static/js/main.d262c30b.chunk.js",
+    "main.js.map": "/semantic-ui/static/js/main.d262c30b.chunk.js.map",
+    "runtime-main.js": "/semantic-ui/static/js/runtime-main.01f60ab0.js",
+    "runtime-main.js.map": "/semantic-ui/static/js/runtime-main.01f60ab0.js.map",
+    "static/css/2.27aa7f32.chunk.css": "/semantic-ui/static/css/2.27aa7f32.chunk.css",
+    "static/js/2.827be7e5.chunk.js": "/semantic-ui/static/js/2.827be7e5.chunk.js",
+    "static/js/2.827be7e5.chunk.js.map": "/semantic-ui/static/js/2.827be7e5.chunk.js.map",
+    "index.html": "/semantic-ui/index.html",
+    "precache-manifest.566470ba925fc4c3f97d3d1eaf32d0a3.js": "/semantic-ui/precache-manifest.566470ba925fc4c3f97d3d1eaf32d0a3.js",
+    "service-worker.js": "/semantic-ui/service-worker.js",
+    "static/css/2.27aa7f32.chunk.css.map": "/semantic-ui/static/css/2.27aa7f32.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/semantic-ui/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.827be7e5.chunk.js.LICENSE.txt": "/semantic-ui/static/js/2.827be7e5.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/semantic-ui/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/semantic-ui/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f60ab0.js",
+    "static/css/2.27aa7f32.chunk.css",
+    "static/js/2.827be7e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d262c30b.chunk.js"
+  ]
+}
